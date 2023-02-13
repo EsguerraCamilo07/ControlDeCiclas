@@ -1,0 +1,2 @@
+este es un ejemplo de archivo para explicar
+el comando git status
